@@ -2,6 +2,6 @@
 @import "tailwindcss";
 
 :root {
-  fonts-family: roboto, Dancing;
+  fonts-family: roboto;
   background: #000000;
 }
