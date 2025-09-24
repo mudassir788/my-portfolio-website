@@ -1,5 +1,3 @@
-import React from "react";
-import { BiLogoPostgresql } from "react-icons/bi";
 import { DiRedis } from "react-icons/di";
 import { FaNodeJs } from "react-icons/fa6";
 import { RiReactjsLine, RiTailwindCssFill } from "react-icons/ri";
