@@ -1,6 +1,6 @@
 import hero from "../assets/men.webp";
 import { HERO_CONTENT } from "../constants";
-import { motion, transform } from "framer-motion";
+import { motion } from "framer-motion";
 export default function Hero() {
   const containervarients = {
     hidden: { opacity: 0, x: -100 },
