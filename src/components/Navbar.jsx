@@ -16,34 +16,34 @@ export default function Navbar() {
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <a
-          href=" https://www.linkedin.com/in/your-linkedin-profile"
+          href="https://www.linkedin.com/in/mudassir-ahmad-17565a2a1/"
           target="_blank"
-          rel=" noopener"
+          rel="noopener"
           aria-label="Linkedin"
         >
           <FaLinkedin />
         </a>
         <a
-          href=" https://www.github.com/in/your-github-profile"
+          href="https://github.com/mudassir788"
           target="_blank"
-          rel=" noopener"
+          rel="noopener"
           aria-label="Github"
         >
           <FaGithub />
         </a>
         <a
-          href=" https://www.instagram.com/in/your-instagram-profile"
+          href="https://www.instagram.com/mudassir_ahmad_mawat?igsh=MTBlM21sOG43N3l4eA=="
           target="_blank"
-          rel=" noopener"
-          aria-label="instagram"
+          rel="noopener"
+          aria-label="Instagram"
         >
           <FaInstagram />
         </a>
         <a
-          href=" https://www.linkedin.com/in/your-twitter-profile"
+          href="https://twitter.com/your-twitter-username"
           target="_blank"
-          rel=" noopener"
-          aria-label="twitter"
+          rel="noopener"
+          aria-label="Twitter"
         >
           <FaSquareXTwitter />
         </a>
@@ -51,4 +51,3 @@ export default function Navbar() {
     </nav>
   );
 }
-2;
